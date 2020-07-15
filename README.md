@@ -17,7 +17,7 @@
 
 Hi, I'm Arathy Jeevan 🙍, a final year Engineering student from India. Currently, I'm the Management Lead and Core Technical Member of The Project Team. 
 
-  <img align="center" alt="GIF" src="https://gph.is/g/ajW5LKY" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
 <br />
