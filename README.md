@@ -15,7 +15,7 @@
 
 <br />
 <br />
-
+<img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 - 🙍 Final Year Engineering student from India. 
 - 🔭 Prototyper and Developer.
 - ⚡ Internet of Things, Machine Learning and Data Science.
@@ -23,7 +23,7 @@
 - 💬 arathyjeevan1999@gmail.com
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  
  
  <br />
  :heart: AJ
