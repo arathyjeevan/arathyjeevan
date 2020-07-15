@@ -17,7 +17,7 @@
 
 Hi, I'm Arathy Jeevan 🙍, a final year Engineering student from India. Currently, I'm the Management Lead and Core Technical Member of The Project Team. 
 
-  <img align="right" alt="GIF" src="https://www.vecteezy.com/vector-art/227854-female-developer-vector" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
   <a href="https://www.vecteezy.com/free-vector/web-developer">Web Developer Vectors by Vecteezy</a>
   
 
