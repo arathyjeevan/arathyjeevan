@@ -1,7 +1,5 @@
 ## Hello, Hallo, नमस्ते 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arathy-jeevan)](https://www.linkedin.com/in/arathy-jeevan) 
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arathyjeevan1999@gmail.com)](mailto:arathyjeevan1999@gmail.com)
 ### I'm Arathy Jeevan ! :smile:
 
 <a href="https://twitter.com">
@@ -18,9 +16,14 @@
 <br />
 <br />
 
-🙍 Final Year Engineering student from India.  
+-🙍 Final Year Engineering student from India. 
+-🔭 Prototyper and Developer.
+-⚡ Internet of Things, Machine Learning and Data Science.
+-🌱 Gardening, Cooking and playing Keyboard.
+-💬 arathyjeevan1999@gmail.com
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
- ⭐️ From [arathyjeevan](https://github.com/arathyjeevan)
+ :heart: AJ
