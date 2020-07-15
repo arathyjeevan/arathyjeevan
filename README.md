@@ -20,8 +20,5 @@ Hi, I'm Arathy Jeevan 🙍, a final year Engineering student from India. Current
   <img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
-<br />
-
-
-⭐️ From [arathyjeevan](https://github.com/arathyjeevan)
+:h From [arathyjeevan](https://github.com/arathyjeevan)
 
