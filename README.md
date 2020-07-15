@@ -15,9 +15,9 @@
 <br />
 <br />
 
-Hi, I'm Arathy Jeevan 🙍, a final year Engineering student from India. Currently, I'm the Management Lead and Core Technical Member of The Project Team. 
+I'm 🙍, a Final Year Engineering student from India.  
 
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
 :heart: From [arathyjeevan](https://github.com/arathyjeevan)
