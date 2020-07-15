@@ -20,4 +20,4 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
- ⭐️ From [arathyjeevan]
+ ⭐️ From [arathyjeevan](https://github.com/arathyjeevan)
