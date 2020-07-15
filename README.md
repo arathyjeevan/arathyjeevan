@@ -1,4 +1,7 @@
 ## Hello, Hallo, नमस्ते 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arathy-jeevan)](https://www.linkedin.com/in/arathy-jeevan) 
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arathyjeevan1999@gmail.com)](mailto:arathyjeevan1999@gmail.com)
 ### I'm Arathy Jeevan ! :smile:
 
 <a href="https://twitter.com">
