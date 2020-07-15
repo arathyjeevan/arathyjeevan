@@ -20,5 +20,4 @@ I'm 🙍, a Final Year Engineering student from India.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
-:star: From [arathyjeevan](https://github.com/arathyjeevan)
-
+ ⭐️ From [arathyjeevan](https://github.com/arathyjeevan)
