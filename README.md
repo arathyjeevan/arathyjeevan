@@ -1,5 +1,5 @@
 ## Hello, Hallo, नमस्ते 👋
-### I'm Arathy Jeevan :smile:
+### I'm Arathy Jeevan ! :smile:
 
 <a href="https://twitter.com">
   <img align="left" alt="Arathy Jeevan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,9 +15,9 @@
 <br />
 <br />
 
-I'm 🙍, a Final Year Engineering student from India.  
+🙍 Final Year Engineering student from India.  
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
  
  <br />
- ⭐️ From [arathyjeevan](https://github.com/arathyjeevan)
+ ⭐️ From [arathyjeevan]
