@@ -20,7 +20,7 @@
 
 - 🙍 Final Year Engineering student from India. 
 - 🔭 Prototyper and Developer.
-- ⚡ Internet of Things, Machine Learning and Data Science.
+- ⚡ Internet of Things, Machine Learning, Data Science and Cloud Computing.
 - 🌱 Gardening, Cooking and playing Keyboard.
 - 💬 arathyjeevan1999@gmail.com
 
